@@ -48,7 +48,7 @@
 		"redux-multilanguage": "^0.1.2",
 		"redux-thunk": "^2.3.0",
 		"swiper": "^5.4.1",
-		"universal-cookie": "^4.0.4",
+		"universal-cookie": "^7.2.1",
 		"uuid": "^3.3.3"
 	},
 	"scripts": {
